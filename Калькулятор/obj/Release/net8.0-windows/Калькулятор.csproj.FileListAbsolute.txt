@@ -1,0 +1,6 @@
+D:\прогать\Калькулятор\obj\Release\net8.0-windows\Калькулятор.Form1.resources
+D:\прогать\Калькулятор\obj\Release\net8.0-windows\Калькулятор.csproj.GenerateResource.cache
+D:\прогать\Калькулятор\obj\Release\net8.0-windows\Калькулятор.GeneratedMSBuildEditorConfig.editorconfig
+D:\прогать\Калькулятор\obj\Release\net8.0-windows\Калькулятор.AssemblyInfoInputs.cache
+D:\прогать\Калькулятор\obj\Release\net8.0-windows\Калькулятор.AssemblyInfo.cs
+D:\прогать\Калькулятор\obj\Release\net8.0-windows\Калькулятор.csproj.CoreCompileInputs.cache

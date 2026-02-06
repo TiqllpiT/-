@@ -1,0 +1,17 @@
+D:\прогать\Калькулятор\bin\Debug\net8.0-windows\Калькулятор.exe
+D:\прогать\Калькулятор\bin\Debug\net8.0-windows\Калькулятор.deps.json
+D:\прогать\Калькулятор\bin\Debug\net8.0-windows\Калькулятор.runtimeconfig.json
+D:\прогать\Калькулятор\bin\Debug\net8.0-windows\Калькулятор.dll
+D:\прогать\Калькулятор\bin\Debug\net8.0-windows\Калькулятор.pdb
+D:\прогать\Калькулятор\obj\Debug\net8.0-windows\Калькулятор.Form1.resources
+D:\прогать\Калькулятор\obj\Debug\net8.0-windows\Калькулятор.csproj.GenerateResource.cache
+D:\прогать\Калькулятор\obj\Debug\net8.0-windows\Калькулятор.GeneratedMSBuildEditorConfig.editorconfig
+D:\прогать\Калькулятор\obj\Debug\net8.0-windows\Калькулятор.AssemblyInfoInputs.cache
+D:\прогать\Калькулятор\obj\Debug\net8.0-windows\Калькулятор.AssemblyInfo.cs
+D:\прогать\Калькулятор\obj\Debug\net8.0-windows\Калькулятор.csproj.CoreCompileInputs.cache
+D:\прогать\Калькулятор\obj\Debug\net8.0-windows\Калькулятор.dll
+D:\прогать\Калькулятор\obj\Debug\net8.0-windows\refint\Калькулятор.dll
+D:\прогать\Калькулятор\obj\Debug\net8.0-windows\Калькулятор.pdb
+D:\прогать\Калькулятор\obj\Debug\net8.0-windows\Калькулятор.genruntimeconfig.cache
+D:\прогать\Калькулятор\obj\Debug\net8.0-windows\ref\Калькулятор.dll
+D:\прогать\Калькулятор\obj\Debug\net8.0-windows\Калькулятор.sourcelink.json
